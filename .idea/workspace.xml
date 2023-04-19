@@ -5,7 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64178d7f-6bd4-4e4b-80d4-c2bbf5467385" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest-setup.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__test__/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/background.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/asteroids/model/model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/asteroids/page/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/pages/style.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/picture-of-day/model/model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/picture-of-day/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/picture-of-day/pages/style.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/api/api.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/api/http.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/api/requests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/atom/navigation.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/organisms/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/organisms/navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.prod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.modules.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.modules.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/@vitejs+plugin-react@3.1.0_vite@4.2.1/node_modules/vite" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/@vitejs+plugin-react@3.1.0_vite@4.2.1/node_modules/vite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/ansi-styles" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/ansi-styles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/chalk" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/chalk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/color-convert" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/color-convert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/color-name" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/color-name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/has-flag" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/has-flag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/react-is" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/react-is" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/supports-color" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.pnpm/node_modules/supports-color" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-ZLG4WENO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-ZLG4WENO.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +72,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OMfw0mGVcHVGueGIr27TJDv9Yx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,19 +83,92 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "14.10.0",
+    "javascript.nodejs.core.library.typings.version": "14.10.0",
     "last_opened_file_path": "/Users/zuhriddinkamilzanov/Desktop/hiring/NASA-APP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/Users/zuhriddinkamilzanov/Desktop/hiring/NASA-APP/node_modules/jest",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "ts.external.directory.path": "/Users/zuhriddinkamilzanov/Desktop/hiring/NASA-APP/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/__test__" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/pages/picture-of-day/pages" />
+      <recent name="$PROJECT_DIR$/src/pages/picture-of-day" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Unnamed">
+    <configuration name="Renders main page correctly" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.tsx" />
+      <test-names>
+        <test-name value="Renders main page correctly" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/__test__/App.test.tsx" />
+      <test-names>
+        <test-name value="" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="adds 1 + 2 to equal 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/sum.test.js" />
+      <test-names>
+        <test-name value="adds 1 + 2 to equal 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="sum module" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/sum.test.ts" />
+      <test-names>
+        <test-name value="sum module" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Unnamed" />
+        <item itemvalue="Jest.Renders main page correctly" />
+        <item itemvalue="Jest.sum module" />
+        <item itemvalue="Jest.adds 1 + 2 to equal 3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,10 +179,15 @@
       <updated>1681375608430</updated>
       <workItem from="1681375610253" duration="887000" />
       <workItem from="1681377858569" duration="36000" />
+      <workItem from="1681377898018" duration="8796000" />
+      <workItem from="1681710495102" duration="26013000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
